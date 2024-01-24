@@ -28,7 +28,7 @@ Funcionalidades:
 - Visualização de Veículos Cadastrados
 - Filtragem de Veículos por Nome
 
-** Live Preview ** : https://web-cars-firebase-app.vercel.app/
+**Live Preview** : https://web-cars-firebase-app.vercel.app/
 
 ## Começando
 Clone o projeto e acesse a pasta.
