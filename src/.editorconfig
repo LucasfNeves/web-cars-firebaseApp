@@ -1,0 +1,18 @@
+#.editorconfig.org
+
+root = true
+
+[*] 
+# Applies to all files
+indent_style = space 
+# Use space indentation
+indent_size = 2 
+# 2 spaces for indentation
+end_of_line = lf 
+# use LF line endings, this is important for cross-platform consistency
+charset = utf-8 
+# Set character encoding to UTF-8
+trim_trailing_whitespace = true 
+# Trims trailing whitespaces
+insert_final_newline = true 
+# Inserts a newline at the end of the file
