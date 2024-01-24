@@ -1,30 +1,38 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tecnologias
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-Currently, two official plugins are available:
+- JavaScript
+- TypeScript
+- ReactJS
+- Tailwind CSS
+- Firebase (Database, Authentication, Storage)
+- Swiper React Components
+- CSS
+- HTML
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Começando
+Clone o projeto e acesse a pasta.
 
-## Expanding the ESLint configuration
+```
+git clone https://github.com/LucasfNeves/web-cars-firebaseApp.git
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
+cd web-cars-firebaseApp
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Execute este comando para instalar as dependências e rodar o projeto.
+
+```
+npm install
+
+npm run dev
+```
+
+ ## Layout
+Você pode visualizar o projeto pelos links abaixo:
+
+- ![Figma](https://www.figma.com/file/Lf0z6tLiFPDOX6ILuDYRlx/Projeto-WebCarros?type=design&node-id=0%3A1&mode=design&t=4eYf2VXLc1gDJd27-1)
+
+Lembrando que é necessário ter uma conta no ![Figma](figma.com) para acessar.
+
+Feito com 💜 por Lucas Farias 👋
