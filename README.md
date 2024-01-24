@@ -17,7 +17,20 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 - CSS
 - HTML
 
-🚀 Começando
+## Projeto
+Este projeto é uma plataforma para venda de carros novos e usados. Ele permite que o usuário faça cadastro e login, visualize os carros disponíveis sem a necessidade de login, cadastre novos veículos, visualize seus veículos cadastrados e filtre todos os veículos da plataforma por nome.
+
+Funcionalidades:
+
+- Cadastro e Login de Usuários
+- Visualização de Carros Disponíveis sem Login
+- Cadastro de Novos Veículos
+- Visualização de Veículos Cadastrados
+- Filtragem de Veículos por Nome
+
+** Live Preview ** : https://web-cars-firebase-app.vercel.app/
+
+## Começando
 Clone o projeto e acesse a pasta.
 
 ```
