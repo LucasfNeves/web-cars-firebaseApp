@@ -9,10 +9,10 @@ export function PainelHeader() {
   return (
     <div className="flex w-full items-center h-10 bg-red-500 rounded-lg text-white gap-4 font-medium px-4">
       <Link to="/dashboard">Dashboard</Link>
-      <Link to="/dashboard/new">Cadastrar carro</Link>
+      <Link to="/dashboard/new">Novo carro</Link>
 
       <button className="ml-auto" onClick={handleLogout}>
-        Sair da conta
+        Sair
       </button>
     </div>
   )
